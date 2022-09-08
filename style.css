@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+padding: 0%;
+background-size:100%
+}
+.iframe-container{
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; 
+    height: 0;
+  }
+  .iframe-container iframe{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+ .B4D{
+  background-color:rgb(77, 27, 109) ;  
+    background-image: url('https://64.media.tumblr.com/3e1826f5969aa491ae27bb6e02bc0206/tumblr_oc1ig4xiwZ1rgewhto1_500.gif');
+background-position: 0ch;
+}
+.yeah{
+   color: rgb(0, 0, 0); 
+   
+}
+.spotify{
+    color: aliceblue;
+font-family: candara;
+
+}
